@@ -209,12 +209,14 @@ form h6 span{
 
     .top-add{
         height: 15%;
+        width: 80%;
         font-size: 19px;
         text-align: center;
     }
 
     form{
         height: 70%;
+        width: 80%;
     }
 
     form input{
